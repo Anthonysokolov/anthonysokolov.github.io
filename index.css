@@ -1,6 +1,8 @@
 p { margin-left: 20%; }
 h1 { margin-left: 10%; }
 body {background-color: rgba(0,128,0,0.3);}
+embed { margin-left: 20%; }
+
 
 /* Add a black background color to the top navigation */
 .topnav {
